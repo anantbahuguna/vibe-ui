@@ -1,7 +1,7 @@
 {
   "name": "vibe-ui",
   "private": false,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "files": [
     "dist"
@@ -13,6 +13,10 @@
       "import": "./dist/vibe-ui.js",
       "require": "./dist/vibe-ui.umd.cjs"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "github:anantbahuguna/vibe-ui"
   },
   "scripts": {
     "dev": "vite",
