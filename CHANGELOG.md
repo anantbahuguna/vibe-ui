@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/anantbahuguna/vibe-ui/compare/v1.0.0...v1.0.1) (2024-09-14)
+
+
+### Bug Fixes
+
+* bump version to skip unpublished versions ([467952d](https://github.com/anantbahuguna/vibe-ui/commit/467952defd8037ad32c9243799f10d718079de65))
+
 # 1.0.0 (2024-09-14)
 
 
