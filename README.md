@@ -1,4 +1,4 @@
-# WORK IN PROGRESS -
+# WORK IN PROGRESS. NOT RECOMMENDED FOR USE
 
 # React + TypeScript + Vite
 
