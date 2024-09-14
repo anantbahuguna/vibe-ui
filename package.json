@@ -20,6 +20,14 @@
     "type": "git",
     "url": "git+https://github.com/anantbahuguna/vibe-ui.git"
   },
+  "keywords": [
+    "ui",
+    "tailwindcss",
+    "components",
+    "react"
+  ],
+  "author": "anantbahuguna",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "prebuild": "rimraf dist",
@@ -28,7 +36,9 @@
     "preview": "vite preview",
     "prepublishOnly": "npm run build",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -45,6 +55,9 @@
     "@storybook/react": "^8.3.0",
     "@storybook/react-vite": "^8.3.0",
     "@storybook/test": "^8.3.0",
+    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/user-event": "^14.5.2",
     "@types/node": "^22.5.4",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
@@ -55,15 +68,18 @@
     "eslint-plugin-react-refresh": "^0.4.9",
     "eslint-plugin-storybook": "^0.8.0",
     "globals": "^15.9.0",
+    "jsdom": "^25.0.0",
     "postcss": "^8.4.45",
     "rimraf": "^6.0.1",
+    "semantic-release": "^24.1.1",
     "storybook": "^8.0.2",
     "tailwindcss": "^3.4.11",
     "typescript": "^5.4.2",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1",
     "vite-plugin-dts": "^4.2.1",
-    "vite-tsconfig-paths": "^5.0.1"
+    "vite-tsconfig-paths": "^5.0.1",
+    "vitest": "^2.1.1"
   },
   "eslintConfig": {
     "extends": [
