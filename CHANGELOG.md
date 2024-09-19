@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/anantbahuguna/vibe-ui/compare/v1.0.1...v1.1.0) (2024-09-19)
+
+
+### Features
+
+* **component:** File Explorer ([0321c75](https://github.com/anantbahuguna/vibe-ui/commit/0321c7579b4adce51e7b26a4e20ed57df9fb6c44))
+
 ## [1.0.1](https://github.com/anantbahuguna/vibe-ui/compare/v1.0.0...v1.0.1) (2024-09-14)
 
 
