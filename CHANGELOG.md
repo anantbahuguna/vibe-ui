@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/anantbahuguna/vibe-ui/compare/v1.1.0...v1.1.1) (2024-09-19)
+
+
+### Bug Fixes
+
+* **component:** Export FileExplorer from main.ts ([537982b](https://github.com/anantbahuguna/vibe-ui/commit/537982b791afe8102d2467c3f3936fd099043e8f))
+
 # [1.1.0](https://github.com/anantbahuguna/vibe-ui/compare/v1.0.1...v1.1.0) (2024-09-19)
 
 
